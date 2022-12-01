@@ -21,8 +21,8 @@
 ## About The Project
 
 Homesmart - set up using ViteJS and PostCSS.
-written codes with HTML TailwindCSS JS Languages.
-full responsive page with nice hover effects.
+Written codes with HTML TailwindCSS JS Languages.
+Full responsive page with nice hover effects.
 
 ## 🔗  Key Links 🔗
 - Live Code: https://hamza-qatash.github.io/Qatash-Homesmart/
@@ -33,5 +33,3 @@ full responsive page with nice hover effects.
 ## Contact
 
 Hamza Qatash - qatashh29@gmail.com
-
-Project Link: https://hamza-qatash.github.io/MNTN-template/
