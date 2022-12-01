@@ -20,9 +20,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Homesmart - set up using ViteJS and PostCSS.
+Homesmart - set up using ViteJS and PostCSS. 
+<br />
 Written codes with HTML TailwindCSS JS Languages.
-Full responsive page with nice hover effects.
+<br />
+Full responsive page with nice hover effects, dark and light mode depend on your browser preference.
 
 ## 🔗  Key Links 🔗
 - Live Code: https://hamza-qatash.github.io/Qatash-Homesmart/
